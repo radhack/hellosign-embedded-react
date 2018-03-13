@@ -75,7 +75,7 @@ HelloSignEmbedded.defaultProps = {
     debug: false,
     allowCancel: true,
     inContainer: false,
-    skipDomainVerification: false
+    skipDomainVerification: true
 };
 
 export default HelloSignEmbedded;
